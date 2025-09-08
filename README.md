@@ -284,10 +284,10 @@ A comprehensive Power BI project analyzing Netflix's global catalog of movies an
 
 ```plaintext
 Netflix-Movies-And-TV-Shows/
-├── NetflixDashboard.pbix           # Power BI file
-├── netflix_titles.csv              # Dataset from Kaggle
-├── Dashboard.png                   # Dashboard snapshot
-└── README.md                       # Project documentation
+├── Netflix_Dashboard.pbix              # Power BI file
+├── netflix_titles.csv                  # Dataset from Kaggle
+├── netflix_powerbi_dashboard.png       # Dashboard snapshot
+└── README.md                           # Project documentation
 
 ```
 ---
@@ -303,7 +303,7 @@ Netflix-Movies-And-TV-Shows/
 ## 🚀 How to Use
 
 1. Clone this repo  
-2. Open `NetflixDashboard.pbix` in Power BI Desktop  
+2. Open `Netflix_Dashboard.pbix` in Power BI Desktop  
 3. Connect to the dataset if needed (`netflix_titles.csv`)  
 4. Explore the visualizations and filters
 
@@ -311,9 +311,8 @@ Netflix-Movies-And-TV-Shows/
 
 ## 📌 Author
 
-**Jagdish Sutar**  
-📧 [jagadishsutar20@gmail.com](mailto:jagadishsutar20@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jagdish-sutar/) | [Portfolio](https://jagdishsutar.vercel.app)
+**Aravind sangepu**  
+📧 [sangepuaravind612@gmail.com](mailto:sangepuaravind612@gmail.com)
 
 ---
 
